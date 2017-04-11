@@ -300,7 +300,7 @@ console.log("My shoe size is "+shoeSize(8));
  * Example output: "BELIEVE YOU CAN AND YOU'RE HALFWAY THERE."
 */
 var words = "welcome home!";
- function allCaps(str){
+function allCaps(str){
  	return str.toUpperCase();
  }
 console.log(allCaps(words));
